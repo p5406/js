@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Vazir";
+    src: url('fonts/Vazir-Thin.eot');
+    src: url('fonts/Vazir-Thin.woff') format('woff'),
+    url('fonts/Vazir-Thin.ttf') format('truetype'),
+    url('fonts/Vazir-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+body {
+    direction: rtl;
+    text-align: right !important;
+    font-family: "vazir" !important;
+    background: #333;
+}
